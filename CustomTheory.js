@@ -4,11 +4,11 @@ import { BigNumber } from "./api/BigNumber";
 import { theory } from "./api/Theory";
 import { Utils } from "./api/Utils";
 
-var id = "my_custom_theory_id";
-var name = "My Custom Theory";
-var description = "A basic theory.";
-var authors = "Gilles-Philippe Paillé";
-var version = 1;
+var id = "superad";
+var name = "Superad Theory";
+var description = "need i show :)";
+var authors = "Annontations6";
+var version = "0a";
 
 var currency;
 var c1, c2;
